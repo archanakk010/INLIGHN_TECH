@@ -29,4 +29,6 @@ Tools: Jupyter Notebook, Excel, Power BI
 
 Archana K K
 
-GitHub: archanakk010
+GitHub: github.com/archanakk010
+
+LinkedIn: linkedin.com/in/archanakk010
